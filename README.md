@@ -1,6 +1,6 @@
-#Web-io
+# Web-io
 
-##Basics
+## Basics
 
 ```javascript
 var x = 1;   //Declaring variables
