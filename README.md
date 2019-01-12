@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web-io
 
 ## Day2
@@ -38,3 +39,23 @@ const logo = require('../assets/logo.png');
 ```
 
 - 
+=======
+# Web-io
+
+## Basics
+
+```javascript
+var x = 1;   //Declaring variables
+
+console.log('Hello World');   //Printing in console
+
+var a = [1,29,69,"Hahahaha"];   //Array
+
+var x = {
+  Name : "Nikesh",    //Key and Value
+  Surname : "Kumar",
+  Semester  : "II",
+}   //Objects
+
+```
+>>>>>>> cefa2ca13871919f9fdce34de61be1ea61e366df
