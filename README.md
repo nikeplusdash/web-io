@@ -31,4 +31,10 @@ render() {
   )
 }
 ```
+- Making a const
+eg.
+```javascript
+const logo = require('../assets/logo.png');
+```
 
+- 
