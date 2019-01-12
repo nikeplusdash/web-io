@@ -1,16 +1,14 @@
 import React, { Component } from 'react';
-import Navbar from "./components/Navbar";
 //import './App.css';
 
-class App extends Component {
+class Navbar extends Component {
   render() {
     return (
       <div>
-        <Navbar/>
-        HELLO
+        Navb
       </div>
     );
   }
 }
 
-export default App;
+export default Navbar;
